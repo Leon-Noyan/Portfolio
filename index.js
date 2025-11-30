@@ -1,6 +1,6 @@
 const projectData = [
     {
-        image: 'img/karen-zhao-jLRIsfkWRGo-unsplash.jpg',
+        image: 'img/brooke-cagle-8jp-6SjVibM-unsplash.jpg',
         title: 'The Mocha Brew',
         description: 'A coffee shop page made with HTML & CSS',
         link: 'https://leon-noyan.github.io/'
