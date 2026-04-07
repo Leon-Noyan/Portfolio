@@ -7,9 +7,9 @@ const projectData = [
     },
     {
         image: 'img/karen-zhao-jLRIsfkWRGo-unsplash.jpg',
-        title: 'Watch-List',
-        description: 'A movie watchlist page, made with HTML, CSS & JS',
-        link: 'https://leon-noyan.github.io/Watch-List/'
+        title: 'Word4Word',
+        description: 'A fullstack app built with HTML, CSS, JS, TS, MySQL and MONGO DB. The platform allows you to view song lyrics.',
+        link: 'https://group-lab-w4w-web.vercel.app/'
     },
     {
         image: 'img/ebuy.png',
