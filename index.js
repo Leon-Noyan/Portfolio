@@ -6,7 +6,7 @@ const projectData = [
         link: 'https://leon-noyan.github.io/'
     },
     {
-        image: 'img/karen-zhao-jLRIsfkWRGo-unsplash.jpg',
+        image: 'img/w4w.png',
         title: 'Word4Word',
         description: 'A fullstack app built with HTML, CSS, JS, TS, MySQL and MONGO DB. The platform allows you to view song lyrics.',
         link: 'https://group-lab-w4w-web.vercel.app/'
